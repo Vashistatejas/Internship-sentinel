@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 5 minutes. Note: GitHub's shortest cron interval is 5 minutes,
     # and scheduled runs can be delayed under load.
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     # Manual trigger for testing.
     inputs:

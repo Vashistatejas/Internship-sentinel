@@ -1,0 +1,41 @@
+{
+  "apiVersion": "1.0",
+  "jobs": [
+    {
+      "id": "d3bc1ced-3ce4-4086-a050-555055dbb1ff",
+      "title": "Software Engineer Intern",
+      "jobUrl": "https://jobs.ashbyhq.com/linear/d3bc1ced-3ce4-4086-a050-555055dbb1ff",
+      "applyUrl": "https://jobs.ashbyhq.com/linear/d3bc1ced-3ce4-4086-a050-555055dbb1ff/application",
+      "location": "Remote",
+      "team": "Engineering",
+      "employmentType": "Internship",
+      "publishedAt": "2026-07-01T10:00:00.000+00:00",
+      "isRemote": true,
+      "isListed": true
+    },
+    {
+      "id": "e4cd2def-4df5-5197-b161-666166ecc200",
+      "title": "Staff Infrastructure Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/linear/e4cd2def",
+      "applyUrl": "https://jobs.ashbyhq.com/linear/e4cd2def/application",
+      "location": "San Francisco, CA",
+      "team": "Infrastructure",
+      "employmentType": "FullTime",
+      "publishedAt": "2026-06-15T10:00:00.000+00:00",
+      "isRemote": false,
+      "isListed": true
+    },
+    {
+      "id": "f5de3efg-5eg6-6208-c272-777277fdd311",
+      "title": "Product Design Intern",
+      "jobUrl": "https://jobs.ashbyhq.com/linear/f5de3efg",
+      "applyUrl": "https://jobs.ashbyhq.com/linear/f5de3efg/application",
+      "location": "",
+      "team": "Design",
+      "employmentType": "Internship",
+      "publishedAt": "2026-07-20T10:00:00.000+00:00",
+      "isRemote": true,
+      "isListed": true
+    }
+  ]
+}

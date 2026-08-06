@@ -1,0 +1,27 @@
+{
+  "totalCount": 3,
+  "jobs": [
+    {
+      "jobId": "2026-100001",
+      "title": "Associate Software Engineer Intern",
+      "url": "/job-details/2026-100001-associate-software-engineer-intern-bengaluru",
+      "location": { "city": "Bengaluru", "country": "India" },
+      "postedDate": "2026-07-28",
+      "summary": "Join our engineering team as an intern."
+    },
+    {
+      "jobId": "2026-100002",
+      "title": "Engineering Internship Program",
+      "url": "/job-details/2026-100002-engineering-internship-gurgaon",
+      "location": { "city": "Gurgaon", "country": "India" },
+      "postedDate": "2026-07-29"
+    },
+    {
+      "jobId": "2026-100003",
+      "title": "Senior Manager Technology",
+      "url": "/job-details/2026-100003-senior-manager-technology-pune",
+      "location": { "city": "Pune", "country": "India" },
+      "postedDate": "2026-07-20"
+    }
+  ]
+}

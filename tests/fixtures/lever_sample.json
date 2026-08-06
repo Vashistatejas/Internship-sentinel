@@ -1,0 +1,36 @@
+[
+  {
+    "id": "09022710-e79a-4cf0-8060-df0e1cd64263",
+    "text": "Software Engineer Intern",
+    "hostedUrl": "https://jobs.lever.co/cred/09022710-e79a-4cf0-8060-df0e1cd64263",
+    "categories": {
+      "commitment": "internship",
+      "location": "bengaluru",
+      "team": "engineering",
+      "department": "technology"
+    },
+    "createdAt": 1779729435083
+  },
+  {
+    "id": "19022710-e79a-4cf0-8060-df0e1cd64264",
+    "text": "Senior Backend Engineer",
+    "hostedUrl": "https://jobs.lever.co/cred/19022710-e79a-4cf0-8060-df0e1cd64264",
+    "categories": {
+      "commitment": "full time",
+      "location": "bengaluru",
+      "team": "platform"
+    },
+    "createdAt": 1779729435000
+  },
+  {
+    "id": "29022710-e79a-4cf0-8060-df0e1cd64265",
+    "text": "Data Science Intern",
+    "hostedUrl": "https://jobs.lever.co/cred/29022710-e79a-4cf0-8060-df0e1cd64265",
+    "categories": {
+      "commitment": "internship",
+      "location": "mumbai",
+      "team": "data"
+    },
+    "createdAt": 1779729436000
+  }
+]

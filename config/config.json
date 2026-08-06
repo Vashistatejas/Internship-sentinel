@@ -1,0 +1,102 @@
+{
+  "state_path": "data/state.json",
+  "request_timeout": 20,
+  "scrapers": [
+    {
+      "name": "publicis_sapient",
+      "company": "Publicis Sapient",
+      "enabled": true,
+      "url": "https://careers.publicissapient.com/bin/ps-redesign/careersJobsearch",
+      "mode": "json",
+      "params": {
+        "searchType": "/search",
+        "lang": "en",
+        "facetFields": "countryName,city,teams,experienceLevel,remote,typeOfEmployment",
+        "q": "",
+        "start": "0",
+        "rows": "100",
+        "country": "India"
+      },
+      "headers": {}
+    },
+    {
+      "name": "greenhouse",
+      "company": "Postman",
+      "enabled": true,
+      "url": "https://boards-api.greenhouse.io/v1/boards/postman/jobs",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    },
+    {
+      "name": "greenhouse",
+      "company": "Anthropic",
+      "enabled": true,
+      "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    },
+    {
+      "name": "greenhouse",
+      "company": "Coinbase",
+      "enabled": true,
+      "url": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    },
+    {
+      "name": "lever",
+      "company": "CRED",
+      "enabled": true,
+      "url": "https://api.lever.co/v0/postings/cred?mode=json",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    },
+    {
+      "name": "lever",
+      "company": "Meesho",
+      "enabled": true,
+      "url": "https://api.lever.co/v0/postings/meesho?mode=json",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    },
+    {
+      "name": "ashby",
+      "company": "Linear",
+      "enabled": true,
+      "url": "https://api.ashbyhq.com/posting-api/job-board/linear",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    },
+    {
+      "name": "ashby",
+      "company": "Supabase",
+      "enabled": true,
+      "url": "https://api.ashbyhq.com/posting-api/job-board/supabase",
+      "mode": "json",
+      "params": {},
+      "headers": {}
+    }
+  ],
+  "matching": {
+    "include_keywords": ["intern", "internship", "trainee", "apprentice"],
+    "require_keywords": [],
+    "exclude_keywords": ["senior", "lead", "manager", "director", "principal", "staff", "head"],
+    "location_keywords": ["india", "bengaluru", "bangalore", "gurgaon", "gurugram", "noida", "pune", "hyderabad", "mumbai", "chennai", "delhi", "remote"]
+  },
+  "email": {
+    "enabled": true,
+    "use_tls": true,
+    "from_addr": null,
+    "to_addrs": ["tvashista_be24@thapar.edu"],
+    "subject_prefix": "[Internship Sentinel]"
+  },
+  "telegram": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "responseHeader": { "status": 0 },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "id": "2026-144904",
+        "jobId": "2026-144904",
+        "name": "Manager Data Engineering",
+        "jobDetailUrl": "/job-details/2026-144904-manager-data-engineering-gurgaon",
+        "jobUrl": "https://sapient-publicisgroupe.icims.com/jobs/144904/job",
+        "displayLocation": "Gurgaon, Haryana, India",
+        "city": "Gurgaon",
+        "countryName": "India",
+        "experienceLevel": "Senior Level",
+        "releasedDate": "2026-07-01T10:20:00Z"
+      },
+      {
+        "id": "2026-145010",
+        "jobId": "2026-145010",
+        "name": "Software Engineer Intern",
+        "jobDetailUrl": "/job-details/2026-145010-software-engineer-intern-bengaluru",
+        "jobUrl": "https://sapient-publicisgroupe.icims.com/jobs/145010/job",
+        "displayLocation": "Bengaluru, Karnataka, India",
+        "city": "Bengaluru",
+        "countryName": "India",
+        "experienceLevel": "Entry Level",
+        "releasedDate": "2026-07-30T09:00:00Z"
+      },
+      {
+        "id": "2026-145099",
+        "jobId": "2026-145099",
+        "name": "Software Engineer Intern",
+        "jobDetailUrl": "/job-details/2026-145099-software-engineer-intern-london",
+        "jobUrl": "https://sapient-publicisgroupe.icims.com/jobs/145099/job",
+        "displayLocation": "London, United Kingdom",
+        "city": "London",
+        "countryName": "United Kingdom",
+        "experienceLevel": "Entry Level",
+        "releasedDate": "2026-07-29T09:00:00Z"
+      }
+    ]
+  }
+}

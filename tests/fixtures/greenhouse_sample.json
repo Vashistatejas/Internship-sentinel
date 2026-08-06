@@ -1,0 +1,26 @@
+{
+  "jobs": [
+    {
+      "id": 7762097003,
+      "title": "Software Engineer Intern",
+      "absolute_url": "https://job-boards.greenhouse.io/postman/jobs/7762097003",
+      "location": { "name": "Bengaluru, India" },
+      "updated_at": "2026-07-28T10:00:00-04:00",
+      "departments": [{ "name": "Engineering" }]
+    },
+    {
+      "id": 7762097004,
+      "title": "Senior Software Engineer",
+      "absolute_url": "https://job-boards.greenhouse.io/postman/jobs/7762097004",
+      "location": { "name": "San Francisco, CA" },
+      "updated_at": "2026-07-27T10:00:00-04:00"
+    },
+    {
+      "id": 7762097005,
+      "title": "Product Manager Intern",
+      "absolute_url": "https://job-boards.greenhouse.io/postman/jobs/7762097005",
+      "location": { "name": "Remote" },
+      "updated_at": "2026-07-29T10:00:00-04:00"
+    }
+  ]
+}

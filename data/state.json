@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:43:01.768073+00:00",
+  "updated_at": "2026-09-24T20:10:43.923299+00:00",
   "seen": {
     "publicis sapient:2026-145047": {
       "title": "Systems Analyst",
@@ -24,6 +24,12 @@
       "url": "https://jobs.lever.co/meesho/1de2fc88-e203-4f1a-8046-55df700de4be",
       "company": "Meesho",
       "first_seen": "2026-08-06T12:44:05.642496+00:00"
+    },
+    "coinbase:8224726": {
+      "title": "Compliance, International Investigations Associate",
+      "url": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
+      "company": "Coinbase",
+      "first_seen": "2026-09-24T20:10:42.877441+00:00"
     }
   }
 }

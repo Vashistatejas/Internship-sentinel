@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T09:25:49.537865+00:00",
+  "updated_at": "2026-11-12T17:41:59.185931+00:00",
   "seen": {
     "publicis sapient:2026-145047": {
       "title": "Systems Analyst",
@@ -30,6 +30,18 @@
       "url": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
       "company": "Coinbase",
       "first_seen": "2026-09-24T20:10:42.877441+00:00"
+    },
+    "coinbase:8382718": {
+      "title": "Compliance, International Investigations Associate",
+      "url": "https://www.coinbase.com/careers/positions/8382718?gh_jid=8382718",
+      "company": "Coinbase",
+      "first_seen": "2026-11-12T17:41:54.321046+00:00"
+    },
+    "coinbase:8382720": {
+      "title": "Compliance, International Investigations Associate",
+      "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720",
+      "company": "Coinbase",
+      "first_seen": "2026-11-12T17:41:55.625741+00:00"
     }
   }
 }

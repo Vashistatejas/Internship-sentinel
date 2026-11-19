@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:59:26.739388+00:00",
+  "updated_at": "2026-11-19T17:16:27.308368+00:00",
   "seen": {
     "publicis sapient:2026-145047": {
       "title": "Systems Analyst",
@@ -42,6 +42,12 @@
       "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720",
       "company": "Coinbase",
       "first_seen": "2026-11-12T17:41:55.625741+00:00"
+    },
+    "coinbase:8402367": {
+      "title": "International Expansion Operations Associate",
+      "url": "https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367",
+      "company": "Coinbase",
+      "first_seen": "2026-11-19T17:16:24.994227+00:00"
     }
   }
 }

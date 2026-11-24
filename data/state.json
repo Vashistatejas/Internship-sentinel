@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T12:07:32.208722+00:00",
+  "updated_at": "2026-11-24T22:27:33.849140+00:00",
   "seen": {
     "publicis sapient:2026-145047": {
       "title": "Systems Analyst",
@@ -48,6 +48,12 @@
       "url": "https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367",
       "company": "Coinbase",
       "first_seen": "2026-11-19T17:16:24.994227+00:00"
+    },
+    "coinbase:8411576": {
+      "title": "Brand Partnership Associate - esports, Gaming & Internet Culture",
+      "url": "https://www.coinbase.com/careers/positions/8411576?gh_jid=8411576",
+      "company": "Coinbase",
+      "first_seen": "2026-11-24T22:27:33.309922+00:00"
     }
   }
 }
